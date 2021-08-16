@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* This file has the solution for the questions 3. This progrom 
+/* This file has the solution for the questions 3. This progrom check if is possible change a string to another one using exactely k operations.*/
 
     const char * ConcatRemove(char s[100], char t[100], int k)
     {
